@@ -1,11 +1,4 @@
 
-Welcome to whirlypool's documentation!
-======================================
+The Whirlpool
+=============
 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
